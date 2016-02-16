@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/*Css Document */
+
+
+.h1RenkCSSDosyasından {
+    padding: 30px;
+    font-size: 30px;
+    border:dashed 5px darkred;
+    padding: 40px;
+    background: cadetblue;
+}
